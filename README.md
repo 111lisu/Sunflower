@@ -10,7 +10,7 @@
 ## Assembly
 
 ### Examples of 3D prints 
-[STL 35mm Din Rail Clip for ESP8266 NodeMCU V3 card](https://cults3d.com/en/3d-model/gadget/clip-rail-din-35mm-pour-carte-esp8266-nodemcu-v3)
-[STL Anemometer](https://www.thingiverse.com/thing:3580171)
+* [STL 35mm Din Rail Clip for ESP8266 NodeMCU V3 card](https://cults3d.com/en/3d-model/gadget/clip-rail-din-35mm-pour-carte-esp8266-nodemcu-v3)
+* [STL Anemometer](https://www.thingiverse.com/thing:3580171)
 
 Project in development version
