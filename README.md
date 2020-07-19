@@ -8,7 +8,7 @@
 ## Hardware
   - 2x L298N
   - 1x ESP8266, Wemos D1 mini or NODEmcu V3 ...
-  - 1x QMC5883L (HMC5883L) 
+  - 1x QMC5883L / HMC5883L (http://wiki.sunfounder.cc/images/7/72/QMC5883L-Datasheet-1.0.pdf) 
 
 ## Assembly
 
