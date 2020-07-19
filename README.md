@@ -2,10 +2,13 @@
 
 ## Install software
 
+ - Install Home Assistant (https://www.home-assistant.io/hassio/installation/) server/virtual or Raspberry Pi
+ - Add Add-ons ESPHome (https://esphome.io/index.html)
+
 ## Hardware
   - 2x L298N
-  - 1x ESP8266 NODEmcu V3
-  - 1x HMC5883L 
+  - 1x ESP8266, Wemos D1 mini or NODEmcu V3 ...
+  - 1x QMC5883L (HMC5883L) 
 
 ## Assembly
 
